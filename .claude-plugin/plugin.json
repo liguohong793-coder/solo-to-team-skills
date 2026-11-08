@@ -1,0 +1,16 @@
+{
+  "name": "solo-to-team-skills",
+  "version": "0.0.2-named",
+  "description": "Skills for human-led AI teams. 一个人统筹 AI 团队的协作技能包。",
+  "author": {
+    "name": "Dabing"
+  },
+  "license": "MIT",
+  "keywords": [
+    "collaboration",
+    "handoff",
+    "multi-session",
+    "skills",
+    "verification"
+  ]
+}

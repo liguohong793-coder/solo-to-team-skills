@@ -1,0 +1,21 @@
+{
+  "name": "solo-to-team-skills",
+  "description": "Skills for human-led AI teams. 一个人统筹 AI 团队的协作技能包。",
+  "owner": {
+    "name": "Dabing"
+  },
+  "plugins": [
+    {
+      "name": "solo-to-team-skills",
+      "source": "./",
+      "description": "Skills for human-led AI teams. 一个人统筹 AI 团队的协作技能包。",
+      "category": "productivity",
+      "skills": [
+        "./skills/dispatch-accept-verify",
+        "./skills/evidence-before-done",
+        "./skills/beginner-ops-writing",
+        "./skills/ops-case-notes"
+      ]
+    }
+  ]
+}
